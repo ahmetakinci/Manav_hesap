@@ -1,2 +1,2 @@
-# Manava_hesap
+# Manav_hesap
 www.patika.dev
